@@ -1,4 +1,9 @@
 /* main styles */
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+/*gallery*/
 .box{
     height:480px;
     width:100%;
@@ -6,12 +11,12 @@
     background-position: center center;
     background-repeat: no-repeat;
 }
-
 .sm{
     height:320px;
 }
-
-.no-gutters {
-  margin-right: 0;
-  margin-left: 0;
+/*sections*/
+.md{
+    height:480px;
+    width:1000%;
 }
+
