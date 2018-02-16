@@ -1,0 +1,17 @@
+/* main styles */
+.box{
+    height:480px;
+    width:100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.sm{
+    height:320px;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
